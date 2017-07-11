@@ -39,10 +39,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         x.view().inject(this);
 
-        ListBean bean = new ListBean();
-        bean.setTitle("213");
-        bean.setPic("http");
-
         initView();
 
         loadData();
@@ -133,7 +129,6 @@ public class MainActivity extends AppCompatActivity {
             return convertView;
         }
     }
-
     class ViewHolder {
         @ViewInject(R.id.title)
         TextView tv;

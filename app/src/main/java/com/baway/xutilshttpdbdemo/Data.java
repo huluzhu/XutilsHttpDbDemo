@@ -3,7 +3,7 @@ package com.baway.xutilshttpdbdemo;
 import java.util.List;
 
 /**
- * Created by 胡计强 on 2017/07/07.
+ * Created by  on 2017/07/07.
  */
 public class Data {
 

@@ -4,7 +4,7 @@ import org.xutils.db.annotation.Column;
 import org.xutils.db.annotation.Table;
 
 /**
- * Created by 胡计强 on 2017/07/07.
+ * Created by  on 2017/07/07.
  */
 @Table(name = "bean")
 public class ListBean {

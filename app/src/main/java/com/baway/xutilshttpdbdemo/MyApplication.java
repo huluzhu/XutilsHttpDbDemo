@@ -5,7 +5,7 @@ import android.app.Application;
 import org.xutils.x;
 
 /**
- * Created by 胡计强 on 2017/07/07.
+ * Created by  on 2017/07/07.
  */
 public class MyApplication extends Application {
     @Override
